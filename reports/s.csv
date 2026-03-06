@@ -1,6 +1,5 @@
 Player,Pos,PrevTeam,Edad,DEF,RDEF,PRSH,COV,Snaps%,SalarioAnual
 Bryan Cook,S,Chiefs,27,83.5,80.1,58.3,83.2,82,1461786
-Julian Blackmon,S,Saints,28,82.4,69.2,null,76.6,6,3170000
 Jaylinn Hawkins,S,Patriots,29,81.3,86.3,64.5,79.7,81,1800000
 Kamren Curl,S,Rams,27,79.9,87.5,66.4,75.1,99,4500000
 Terrell Burgess,S,Saints,28,79.5,80.1,59,71.4,10,1183778
@@ -14,7 +13,8 @@ Alohi Gilman,S,Ravens,29,70.4,71.6,58.6,71.9,93,5062500
 Jalen Thompson,S,Cardinals,28,68.7,63.2,60.5,69.2,85,12000000
 Jordan Poyer,S,Bills,35,68.6,71.5,71.7,62.8,43,1255000
 Harrison Smith,S,Vikings,37,68,61.7,71.5,67.6,74,10250000
-Sam Franklin Jr.,S,Bills,30,65.4,60,60,64.3,0,1170000
+Coby Bryant,S,Seahawks,27,66.9,71.5,66.8,63.6,81,1116952
+Xavier Woods,S,Titans,31,65.4,54,50,70.3,49,4000000
 Jabrill Peppers,S,Steelers,31,65.1,90.9,null,52.9,8,1255000
 Jaquan Brisker,S,Bears,27,64.6,79.1,72.3,54.1,99,1838886
 Tony Adams,S,Jets,27,63.7,51.6,61.7,67.1,41,3263000
@@ -41,7 +41,6 @@ Marcus Maye,S,Chargers,33,49.7,59.1,null,51.1,2,1255000
 M.J. Stewart,S,Texans,31,49.7,80.6,56.2,42.4,21,2500000
 Kyle Dugger,S,Steelers,30,49.6,59,89.1,41.7,66,11000000
 Jonathan Owens,S,Bears,31,48.6,60.6,51.3,50.4,4,1900000
-Kaevon Merriweather,S,Texans,27,45.3,56.7,59.2,46.4,2,234000
 Demetrius Flannigan-Fowles,S,Giants,30,44.3,47.4,68.1,44.2,16,1337500
 Lonnie Johnson Jr.,S,Raiders,31,43.7,34.6,56.4,49.5,28,1685000
 Damar Hamlin,S,Bills,28,42.8,60,56.8,47.5,1,2000000
